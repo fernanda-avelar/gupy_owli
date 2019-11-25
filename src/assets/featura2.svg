@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="67px" height="67px" viewBox="0 0 67 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>featura2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="featura2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-33-Copy" transform="translate(1.000000, 1.000000)" fill-rule="nonzero">
+            <g id="Group-8-Copy-9" fill="#FFE6E6">
+                <g id="Group-8-Copy-7" transform="translate(0.000000, 0.774798)">
+                    <g id="Group-8-Copy">
+                        <ellipse id="Oval-Copy" cx="32.5" cy="32.0987654" rx="32.5" ry="32.0987654"></ellipse>
+                    </g>
+                </g>
+            </g>
+            <g id="Group-37" transform="translate(12.187500, 13.641975)" stroke="#FF7F7F" stroke-width="1.48148148">
+                <g id="Group-36">
+                    <g id="arrow-copy-7" transform="translate(10.934297, 10.763086) rotate(45.000000) translate(-10.934297, -10.763086) translate(3.215547, 3.942099)">
+                        <polyline id="arrow" points="8.9375 1.60493827 14.7460106 6.84606481 8.9375 12.0871914"></polyline>
+                        <path d="M11.7475825,2.06894249 L2.19333788,11.6231871" id="line" transform="translate(6.970460, 6.846065) rotate(45.000000) translate(-6.970460, -6.846065) "></path>
+                    </g>
+                    <g id="arrow-copy-7" transform="translate(10.579412, 10.448802) rotate(45.000000) translate(-10.579412, -10.448802) translate(3.673162, 3.627815)">
+                        <path d="M11.7475825,2.06894249 L2.19333788,11.6231871" id="line" transform="translate(6.970460, 6.846065) rotate(45.000000) translate(-6.970460, -6.846065) "></path>
+                    </g>
+                    <g id="arrow-copy-8" transform="translate(29.841437, 11.016234) scale(-1, 1) rotate(45.000000) translate(-29.841437, -11.016234) translate(22.122687, 4.195246)">
+                        <polyline id="arrow" points="8.9375 1.60493827 14.7460106 6.84606481 8.9375 12.0871914"></polyline>
+                        <path d="M11.7475825,2.06894249 L2.19333788,11.6231871" id="line" transform="translate(6.970460, 6.846065) rotate(45.000000) translate(-6.970460, -6.846065) "></path>
+                    </g>
+                </g>
+            </g>
+            <g id="Group-37-Copy" transform="translate(32.500000, 43.734568) scale(1, -1) translate(-32.500000, -43.734568) translate(12.187500, 32.901235)" stroke="#FF7F7F" stroke-width="1.48148148">
+                <g id="Group-36">
+                    <g id="arrow-copy-7" transform="translate(10.934297, 10.763086) rotate(45.000000) translate(-10.934297, -10.763086) translate(3.215547, 3.942099)">
+                        <polyline id="arrow" points="8.9375 1.60493827 14.7460106 6.84606481 8.9375 12.0871914"></polyline>
+                        <path d="M11.7475825,2.06894249 L2.19333788,11.6231871" id="line" transform="translate(6.970460, 6.846065) rotate(45.000000) translate(-6.970460, -6.846065) "></path>
+                    </g>
+                    <g id="arrow-copy-7" transform="translate(10.579412, 10.448802) rotate(45.000000) translate(-10.579412, -10.448802) translate(3.673162, 3.627815)">
+                        <path d="M11.7475825,2.06894249 L2.19333788,11.6231871" id="line" transform="translate(6.970460, 6.846065) rotate(45.000000) translate(-6.970460, -6.846065) "></path>
+                    </g>
+                    <g id="arrow-copy-8" transform="translate(29.841437, 11.016234) scale(-1, 1) rotate(45.000000) translate(-29.841437, -11.016234) translate(22.122687, 4.195246)">
+                        <polyline id="arrow" points="8.9375 1.60493827 14.7460106 6.84606481 8.9375 12.0871914"></polyline>
+                        <path d="M11.7475825,2.06894249 L2.19333788,11.6231871" id="line" transform="translate(6.970460, 6.846065) rotate(45.000000) translate(-6.970460, -6.846065) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

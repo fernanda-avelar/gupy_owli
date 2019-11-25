@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+.App {
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.blue {
+  background: rgb(18,166,230);
+  background: -moz-linear-gradient(137deg, rgba(18,166,230,1) 0%, rgba(118,207,255,1) 100%);
+  background: -webkit-linear-gradient(137deg, rgba(18,166,230,1) 0%, rgba(118,207,255,1) 100%);
+  background: linear-gradient(137deg, rgba(18,166,230,1) 0%, rgba(118,207,255,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#12a6e6",endColorstr="#76cfff",GradientType=1);
+}
+
+.recursos {
+  padding: 40px 0 100px 0;
+}
+
+.pBox {
+  background-color: #eeeeee;
+  padding-bottom: 50px;
+}

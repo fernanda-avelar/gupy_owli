@@ -1,0 +1,31 @@
+.parent {
+    display: table;
+    height: 250px;
+}
+
+.content {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.text {
+    text-align: Left;
+    color: #ffffff
+}
+
+.jumbotron {
+    background-color: rgba(0,0,0,0)!important;
+}
+
+.parent_inline {
+    white-space: nowrap!important;
+    overflow-x: auto!important;
+}
+
+.inline {
+    display: inline-block!important;
+}
+
+.icon_right {
+    margin-left: 10px;
+}
