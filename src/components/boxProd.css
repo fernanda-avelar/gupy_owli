@@ -1,6 +1,7 @@
 .cardBody {
     border-radius: 10px!important;
     border: 2px solid #d7d7d7!important;
+    padding: 25px;
 }
 
 .cardBody:hover, .cardBody:focus {
@@ -10,10 +11,6 @@
 .cardBody:hover h2 {
     color: #0576ff!important;
 } 
-
-.titulo {
-    margin-top: 25px;
-}
 
 .titulo:hover {
     color: #0576ff!important;

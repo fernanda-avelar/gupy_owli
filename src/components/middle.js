@@ -9,7 +9,7 @@ export default class Middle extends Component {
             <div>
                 <div class="row align-items-center">
                     <div class="col-md-4">
-                        <h1>Conheça todos os nossos recursos</h1>
+                        <h1 style={{textAlign:"left",fontSize:"55"}}><b>Conheça todos os nossos recursos</b></h1>
                     </div>
                     <div class="col-md-4">
                         <Icons name="feature-1" />
