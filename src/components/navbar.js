@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { Button, Nav, Form, Navbar } from "react-bootstrap";
-import Arrow from "./icons/arrow";
+import IconRightBlack from "./icons/rightblack"
+// import Arrow from "./icons/arrow";
 
 import "./navbar.css";
 
@@ -31,9 +32,9 @@ export default class Topp extends Component {
                             <g
                                 id="Owli"
                                 stroke="none"
-                                stroke-width="1"
+                                strokeWidth="1"
                                 fill="none"
-                                fill-rule="evenodd"
+                                fillRule="evenodd"
                             >
                                 <g
                                     id="Group-10-Copy"
@@ -84,7 +85,7 @@ export default class Topp extends Component {
                         <Form inline>
                             <Button variant="link">Entrar</Button>
                             <Button variant="outline-light">
-                                Comprar <Arrow color="#FFFFFF" />
+                                Comprar <IconRightBlack color="#ffffff"/>
                             </Button>
                         </Form>
                     </Navbar.Collapse>

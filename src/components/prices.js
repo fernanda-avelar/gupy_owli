@@ -10,9 +10,9 @@ export default class Prices extends Component {
     render() {
         return (
             <div>
-                <div class="row justify-content-around boxesPrices">
-                    <div class="col-md-1"></div>
-                    <div class="col-md-3">
+                <div className="row justify-content-around boxesPrices">
+                    <div className="col-md-1"></div>
+                    <div className="col-md-3">
                         <Prod
                             titulo="Plano Indicado"
                             subtext="Recursos ilimitados"
@@ -21,7 +21,7 @@ export default class Prices extends Component {
                             price="145"
                         />
                     </div>
-                    <div class="col-md-3">
+                    <div className="col-md-3">
                         <Prod
                             titulo="Plano Indicado"
                             subtext="Recursos ilimitados"
@@ -30,7 +30,7 @@ export default class Prices extends Component {
                             price="145"
                         />
                     </div>
-                    <div class="col-md-1"></div>
+                    <div className="col-md-1"></div>
                 </div>
             </div>
         );

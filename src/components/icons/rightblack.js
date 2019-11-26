@@ -1,36 +1,34 @@
-import React, { Component } from "react";
+import React from "react";
 
 // import { Container } from './styles';
 
-export default class IconRightBlack extends Component {
-    render() {
-        return (
-                <svg 
-                    style={{marginLeft: "10px"}}
-                    width="7px"
-                    height="11px"
-                    viewBox="0 0 7 11"
-                    version="1.1"
-                    xmlns="http://www.w3.org/2000/svg"
-                    xlink="http://www.w3.org/1999/xlink"
-                >
-                    <title>arrow-right-black-small</title>
-                    <desc>Created with Sketch.</desc>
-                    <g
-                        id="arrow-right-black-small"
-                        stroke="none"
-                        stroke-width="1"
-                        fill="none"
-                        fill-rule="evenodd"
-                    >
-                        <polyline
-                            id="arrow-copy"
-                            stroke="#1D1D1D"
-                            fill-rule="nonzero"
-                            points="1 1 6 5.5 1 10"
-                        ></polyline>
-                    </g>
-                </svg>
-        );
-    }
-}
+const IconRightBlack = ({ color = "" }) => (
+    <svg
+        style={{ marginLeft: "10px" }}
+        width="7px"
+        height="11px"
+        viewBox="0 0 7 11"
+        version="1.1"
+        xmlns="http://www.w3.org/2000/svg"
+        xlink="http://www.w3.org/1999/xlink"
+    >
+        <title>arrow-right-black-small</title>
+        <desc>Created with Sketch.</desc>
+        <g
+            id="arrow-right-black-small"
+            stroke="none"
+            strokeWidth="1"
+            fill="none"
+            fillRule="evenodd"
+        >
+            <polyline
+                id="arrow-copy"
+                stroke={color}
+                fillRule="nonzero"
+                points="1 1 6 5.5 1 10"
+            ></polyline>
+        </g>
+    </svg>
+);
+
+export default IconRightBlack;

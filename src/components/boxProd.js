@@ -25,11 +25,11 @@ const Prod = ({
                     </h2>
                 </Card.Title>
                 <Card.Text style={{ color: "#737373" }}>{subtext}</Card.Text>
-                <Card.Text>
-                    <h1>
+                <Card.Text style={{fontSize: "50px", fontWeight:"900"}}>
+                    {/* <h1> */}
                         <sup>R$</sup>
                         <b>{price}</b>
-                    </h1>
+                    {/* </h1> */}
                 </Card.Text>
             </Card.Body>
             <ListGroup className="list-group list-group-flush">

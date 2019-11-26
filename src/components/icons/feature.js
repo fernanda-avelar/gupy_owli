@@ -18,9 +18,9 @@ const getViewBox = name => {
                     <g
                         id="feature1"
                         stroke="none"
-                        stroke-width="1"
+                        strokeWidth="1"
                         fill="none"
-                        fill-rule="evenodd"
+                        fillRule="evenodd"
                     >
                         <g
                             id="Group-8-Copy-10"
@@ -34,7 +34,7 @@ const getViewBox = name => {
                                     <ellipse
                                         id="Oval-Copy"
                                         fill="#FFE6E6"
-                                        fill-rule="nonzero"
+                                        fillRule="nonzero"
                                         cx="32"
                                         cy="32.0987654"
                                         rx="32"
@@ -45,7 +45,7 @@ const getViewBox = name => {
                                         transform="translate(31.876923, 32.623457) scale(-1, 1) translate(-31.876923, -32.623457) translate(20.676923, 12.962963)"
                                         fill="#FF7F7F"
                                         stroke="#FF7F7F"
-                                        stroke-width="0.5"
+                                        strokeWidth="0.5"
                                     >
                                         <g id="Group-9">
                                             <path
@@ -75,14 +75,14 @@ const getViewBox = name => {
                     <g
                         id="featura2"
                         stroke="none"
-                        stroke-width="1"
+                        strokeWidth="1"
                         fill="none"
-                        fill-rule="evenodd"
+                        fillRule="evenodd"
                     >
                         <g
                             id="Group-33-Copy"
                             transform="translate(1.000000, 1.000000)"
-                            fill-rule="nonzero"
+                            fillRule="nonzero"
                         >
                             <g id="Group-8-Copy-9" fill="#FFE6E6">
                                 <g
@@ -104,7 +104,7 @@ const getViewBox = name => {
                                 id="Group-37"
                                 transform="translate(12.187500, 13.641975)"
                                 stroke="#FF7F7F"
-                                stroke-width="1.48148148"
+                                strokeWidth="1.48148148"
                             >
                                 <g id="Group-36">
                                     <g
@@ -151,7 +151,7 @@ const getViewBox = name => {
                                 id="Group-37-Copy"
                                 transform="translate(32.500000, 43.734568) scale(1, -1) translate(-32.500000, -43.734568) translate(12.187500, 32.901235)"
                                 stroke="#FF7F7F"
-                                stroke-width="1.48148148"
+                                strokeWidth="1.48148148"
                             >
                                 <g id="Group-36">
                                     <g

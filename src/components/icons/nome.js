@@ -19,11 +19,11 @@ export default class IconUser extends Component {
                     <g
                         id="user"
                         stroke="none"
-                        stroke-width="1"
+                        strokeWidth="1"
                         fill="none"
-                        fill-rule="evenodd"
-                        stroke-linecap="square"
-                        stroke-linejoin="round"
+                        fillRule="evenodd"
+                        strokeLinecap="square"
+                        strokeLinejoin="round"
                     >
                         <g
                             id="Group"

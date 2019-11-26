@@ -19,10 +19,10 @@ export default class iconEmail extends Component {
                     <g
                         id="email"
                         stroke="none"
-                        stroke-width="1"
+                        strokeWidth="1"
                         fill="none"
-                        fill-rule="evenodd"
-                        stroke-linejoin="round"
+                        fillRule="evenodd"
+                        strokeLinejoin="round"
                     >
                         <g
                             transform="translate(1.500000, 1.000000)"
@@ -30,7 +30,7 @@ export default class iconEmail extends Component {
                         >
                             <rect
                                 id="Rectangle"
-                                stroke-linecap="square"
+                                strokeLinecap="square"
                                 x="0"
                                 y="2"
                                 width="16"
@@ -40,7 +40,7 @@ export default class iconEmail extends Component {
                             <path
                                 d="M4,2 L5.01474312,8.15940163 C5.08442972,8.58239319 5.415977,8.91391087 5.83897478,8.9835597 L12.0021906,9.998366"
                                 id="Line-2"
-                                stroke-linecap="round"
+                                strokeLinecap="round"
                                 transform="translate(8.001095, 5.999183) scale(1, -1) rotate(-225.000000) translate(-8.001095, -5.999183) "
                             ></path>
                         </g>

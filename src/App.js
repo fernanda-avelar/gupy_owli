@@ -1,6 +1,5 @@
 import React from "react";
 import "./App.css";
-import { Button } from "react-bootstrap";
 import Topp from "./components/navbar";
 import Jumboo from "./components/jumbo";
 import Middle from "./components/middle";
@@ -14,19 +13,19 @@ import "bootstrap/dist/css/bootstrap.min.css";
 function App() {
     return (
         <div className="App">
-            <div class="blue">
-                <div class="col-10 offset-1">
+            <div className="blue">
+                <div className="col-10 offset-1">
                     <Topp />
                     <Jumboo />
                 </div>
             </div>
-            <div class="recursos">
-                <div class="col-10 offset-1 p-0">
+            <div className="recursos">
+                <div className="col-10 offset-1 p-0">
                     <Middle />
                 </div>
             </div>
-            <div class="pBox">
-                <div class="col-10 offset-1 p-0">
+            <div className="pBox">
+                <div className="col-10 offset-1 p-0">
                     <Prices />
                     <Carr/>
                 </div>

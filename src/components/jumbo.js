@@ -20,9 +20,9 @@ export default class Jumboo extends Component {
         return (
             <div>
                 <Jumbotron>
-                    <div class="row justify-content-around">
-                        <div class="col-md-6 text parent">
-                            <div class="content">
+                    <div className="row justify-content-around">
+                        <div className="col-md-6 text parent">
+                            <div className="content">
                                 <h1><b>A nova área do cliente.</b></h1>
                                 <p>
                                     Aplicativos para locatários e proprietários
@@ -31,16 +31,16 @@ export default class Jumboo extends Component {
                                 <p>
                                     <Button className="parent_inline" variant="light">
                                         <b className="inline">Quero fazer parte</b>
-                                        <IconRightBlack className="inline icon_right"/>
+                                        <IconRightBlack color="#1D1D1D" className="inline icon_right"/>
                                     </Button>
                                 </p>
                             </div>
                         </div>
-                        <div class="col-md-4">
+                        <div className="col-md-4">
                             <Card style={{ width: "100%" }}>
                                 <Card.Body>
                                     <Card.Title>
-                                        Cadastre sua imobiliária
+                                        <b>Cadastre sua imobiliária</b>
                                     </Card.Title>
                                     <InputGroup className="mb-3">
                                         <InputGroup.Prepend>

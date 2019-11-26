@@ -29,3 +29,11 @@
 .icon_right {
     margin-left: 10px;
 }
+
+.form-control {
+    border-left-width: 0px!important;
+}
+
+.input-group-text {
+    background-color: rgba(0,0,0,0)!important;
+}
