@@ -17,7 +17,7 @@ export default class Prices extends Component {
                             titulo="Plano Indicado"
                             subtext="Recursos ilimitados"
                             txt1="Lorem Ipsum Dolor sit amet"
-                            txt2="Consectetur adpisint elit"
+                            txt2="Consectetur adipiscing elit"
                             price="145"
                         />
                     </div>
@@ -26,7 +26,7 @@ export default class Prices extends Component {
                             titulo="Plano Indicado"
                             subtext="Recursos ilimitados"
                             txt1="Lorem Ipsum Dolor sit amet"
-                            txt2="Consectetur adpisint elit"
+                            txt2="Consectetur adipiscing elit"
                             price="145"
                         />
                     </div>
